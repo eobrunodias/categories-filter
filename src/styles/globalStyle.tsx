@@ -9,4 +9,9 @@ export const GlobalStyle = createGlobalStyle`
     font-family: "Sora", sans-serif;
   }
 
+  a {
+    text-decoration: none;
+
+  }
+
 `;
